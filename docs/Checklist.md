@@ -1,0 +1,15 @@
+## Karate Tutorial
+- 
+- config logback to reduce log 
+- running with tag, without tag. One Scenario can have multiple tag
+- config path parameter, request param, header, cookie, sending form data, sending json data
+- request retry
+- using embedded expression with json: template approach, json file with placeholde, which can be replaced with dynamic value
+- read external file (json, csv). convert type of text, csv, json
+- define multiple function in javascript file 
+- define and calling java function
+- define mock server
+- karate testing with ci/cd pipeline on github
+- karate with docker
+- feature call feature 
+- performance testing with Jmeter
