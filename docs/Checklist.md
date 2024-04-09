@@ -1,8 +1,10 @@
 ## Karate Tutorial
-- 
-- config logback to reduce log 
-- running with tag, without tag. One Scenario can have multiple tag
-- config path parameter, request param, header, cookie, sending form data, sending json data
+- [done] get API
+- [done] config logback to reduce log 
+- [done] running with tag, without tag. One Scenario can have multiple tag
+- [done] config path parameter, request param, header, cookie, 
+- sending form data, sending json data
+- with multipart file, when post csv file, need to use value, instead of read. because kerate automatically convert csv to json
 - request retry
 - using embedded expression with json: template approach, json file with placeholde, which can be replaced with dynamic value
 - read external file (json, csv). convert type of text, csv, json
